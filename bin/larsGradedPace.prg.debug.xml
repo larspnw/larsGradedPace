@@ -1,74 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="16" pc="268435456" symbol="initialize"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="17" pc="268435460" symbol="initialize"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="18" pc="268435478" symbol="initialize"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="25" pc="268435492" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="27" pc="268435496" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="28" pc="268435513" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="29" pc="268435536" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="33" pc="268435540" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="35" pc="268435567" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="36" pc="268435602" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="37" pc="268435630" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="41" pc="268435674" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="42" pc="268435696" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="45" pc="268435718" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="47" pc="268435731" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="53" pc="268435754" symbol="compute"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="56" pc="268435758" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="58" pc="268435762" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="59" pc="268435769" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="60" pc="268435776" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="61" pc="268435783" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="64" pc="268435790" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="65" pc="268435817" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="68" pc="268435902" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="70" pc="268435933" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="72" pc="268435940" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="74" pc="268435971" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="75" pc="268435978" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="82" pc="268436004" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="83" pc="268436015" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="87" pc="268436024" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="88" pc="268436040" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="92" pc="268436056" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="93" pc="268436067" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="94" pc="268436090" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="96" pc="268436099" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="97" pc="268436112" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="98" pc="268436138" symbol="calcGrade"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="102" pc="268436142" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="121" pc="268436146" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="122" pc="268436153" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="125" pc="268436157" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="128" pc="268436188" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="130" pc="268436195" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="133" pc="268436206" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="136" pc="268436231" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="139" pc="268436259" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="142" pc="268436303" symbol="calcGap"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="145" pc="268436318" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="146" pc="268436322" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="148" pc="268436332" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="149" pc="268436350" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="150" pc="268436370" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="152" pc="268436399" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="154" pc="268436418" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="155" pc="268436428" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="156" pc="268436448" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="159" pc="268436474" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="160" pc="268436474" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="161" pc="268436485" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="163" pc="268436501" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="169" pc="268436514" symbol="formatPace"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="5" pc="268436519" symbol="initialize"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="6" pc="268436523" symbol="initialize"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="10" pc="268436542" symbol="onStart"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="14" pc="268436547" symbol="onStop"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="18" pc="268436552" symbol="getInitialView"/>
-<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="19" pc="268436556" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="17" pc="268435456" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="18" pc="268435460" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="19" pc="268435478" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="21" pc="268435491" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="22" pc="268435512" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="23" pc="268435528" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="24" pc="268435544" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="32" pc="268435574" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="34" pc="268435578" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="35" pc="268435595" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="36" pc="268435618" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="40" pc="268435622" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="42" pc="268435649" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="43" pc="268435703" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="44" pc="268435731" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="45" pc="268435759" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="49" pc="268435803" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="50" pc="268435825" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="51" pc="268435847" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="54" pc="268435869" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="56" pc="268435882" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="58" pc="268435916" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="62" pc="268435920" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="63" pc="268435924" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="64" pc="268435931" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="65" pc="268435938" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="66" pc="268435962" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="67" pc="268435976" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="68" pc="268435986" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="71" pc="268436012" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="72" pc="268436023" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="74" pc="268436032" symbol="getAverage"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="78" pc="268436035" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="80" pc="268436039" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="81" pc="268436046" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="82" pc="268436053" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="83" pc="268436060" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="86" pc="268436067" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="87" pc="268436094" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="90" pc="268436179" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="92" pc="268436210" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="94" pc="268436217" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="96" pc="268436248" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="97" pc="268436255" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="104" pc="268436281" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="105" pc="268436292" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="109" pc="268436301" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="110" pc="268436317" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="114" pc="268436333" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="115" pc="268436344" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="116" pc="268436367" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="118" pc="268436376" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="120" pc="268436389" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="121" pc="268436414" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="122" pc="268436440" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="125" pc="268436449" symbol="calcGrade"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="129" pc="268436453" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="148" pc="268436457" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="149" pc="268436464" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="152" pc="268436468" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="155" pc="268436499" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="157" pc="268436506" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="160" pc="268436517" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="163" pc="268436542" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="169" pc="268436570" symbol="calcGap"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="172" pc="268436585" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="173" pc="268436589" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="175" pc="268436599" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="176" pc="268436617" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="177" pc="268436637" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="179" pc="268436666" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="181" pc="268436685" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="182" pc="268436695" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="183" pc="268436715" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="186" pc="268436741" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="187" pc="268436741" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="188" pc="268436752" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="190" pc="268436768" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceView.mc" lineNum="196" pc="268436781" symbol="formatPace"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="5" pc="268436786" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="6" pc="268436790" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="10" pc="268436809" symbol="onStart"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="14" pc="268436814" symbol="onStop"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="18" pc="268436819" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsGradedPace/./source/larsGradedPaceApp.mc" lineNum="19" pc="268436823" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
@@ -80,51 +97,58 @@
 <entry id="10" object="true" symbol="testFormatPace"/>
 <entry field="true" id="12" symbol="METERS_TO_MILES"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="22" symbol="AppName"/>
+<entry field="true" id="24" symbol="AppName"/>
 <entry field="true" id="14" symbol="altitudes"/>
-<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="16" symbol="speeds"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="16" method="true" symbol="calcGrade"/>
+<entry id="18" method="true" symbol="calcGrade"/>
 <entry field="true" id="15" symbol="distances"/>
-<entry id="20" module="true" symbol="Layouts"/>
-<entry id="18" method="true" symbol="formatPace"/>
+<entry id="22" module="true" symbol="Layouts"/>
+<entry id="20" method="true" symbol="formatPace"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry id="17" method="true" symbol="calcGap"/>
-<entry id="19" module="true" symbol="Menus"/>
+<entry id="19" method="true" symbol="calcGap"/>
+<entry id="17" method="true" symbol="getAverage"/>
+<entry id="21" module="true" symbol="Menus"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="9" object="true" symbol="larsGradedPaceView"/>
 <entry field="true" id="13" symbol="samples"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435674" name="i" stackId="2" startPc="268435567"/>
-<entry endPc="268435757" name="grade" stackId="3" startPc="268435496"/>
-<entry endPc="268435757" name="gap" stackId="4" startPc="268435496"/>
-<entry endPc="268435758" name="info" stackId="1" startPc="268435492"/>
-<entry endPc="268436004" name="i" stackId="5" startPc="268435817"/>
-<entry endPc="268436141" name="altAvg" stackId="6" startPc="268435762"/>
-<entry endPc="268436141" name="altDelta" stackId="1" startPc="268435762"/>
-<entry endPc="268436141" name="count" stackId="4" startPc="268435762"/>
-<entry endPc="268436141" name="grade" stackId="8" startPc="268435762"/>
-<entry endPc="268436141" name="distAvg" stackId="7" startPc="268435762"/>
-<entry endPc="268436141" name="delta" stackId="3" startPc="268435762"/>
-<entry endPc="268436141" name="distDelta" stackId="2" startPc="268435762"/>
-<entry endPc="268436317" name="empspeed" stackId="3" startPc="268436146"/>
-<entry endPc="268436317" name="paceCalc" stackId="4" startPc="268436146"/>
-<entry endPc="268436318" name="speed" stackId="1" startPc="268436142"/>
-<entry endPc="268436318" name="grade" stackId="2" startPc="268436142"/>
-<entry endPc="268436517" name="index" stackId="3" startPc="268436322"/>
-<entry endPc="268436517" name="min" stackId="4" startPc="268436322"/>
-<entry endPc="268436517" name="sPace" stackId="2" startPc="268436322"/>
-<entry endPc="268436517" name="sec" stackId="6" startPc="268436322"/>
-<entry endPc="268436517" name="formatted" stackId="8" startPc="268436322"/>
-<entry endPc="268436517" name="sSec" stackId="7" startPc="268436322"/>
-<entry endPc="268436517" name="dSec" stackId="5" startPc="268436322"/>
-<entry endPc="268436518" name="pace" stackId="1" startPc="268436318"/>
-<entry endPc="268436547" name="state" stackId="1" startPc="268436542"/>
-<entry endPc="268436552" name="state" stackId="1" startPc="268436547"/>
+<entry endPc="268435573" name="i" stackId="1" startPc="268435512"/>
+<entry endPc="268435803" name="i" stackId="2" startPc="268435649"/>
+<entry endPc="268435919" name="grade" stackId="3" startPc="268435578"/>
+<entry endPc="268435919" name="gap" stackId="4" startPc="268435578"/>
+<entry endPc="268435920" name="info" stackId="1" startPc="268435574"/>
+<entry endPc="268436012" name="i" stackId="4" startPc="268435962"/>
+<entry endPc="268436034" name="sum" stackId="3" startPc="268435924"/>
+<entry endPc="268436034" name="count" stackId="2" startPc="268435924"/>
+<entry endPc="268436035" name="a" stackId="1" startPc="268435920"/>
+<entry endPc="268436281" name="i" stackId="5" startPc="268436094"/>
+<entry endPc="268436452" name="altAvg" stackId="6" startPc="268436039"/>
+<entry endPc="268436452" name="altDelta" stackId="1" startPc="268436039"/>
+<entry endPc="268436452" name="count" stackId="4" startPc="268436039"/>
+<entry endPc="268436452" name="grade" stackId="8" startPc="268436039"/>
+<entry endPc="268436452" name="distAvg" stackId="7" startPc="268436039"/>
+<entry endPc="268436452" name="delta" stackId="3" startPc="268436039"/>
+<entry endPc="268436452" name="distDelta" stackId="2" startPc="268436039"/>
+<entry endPc="268436584" name="empspeed" stackId="3" startPc="268436457"/>
+<entry endPc="268436584" name="paceCalc" stackId="4" startPc="268436457"/>
+<entry endPc="268436585" name="speed" stackId="1" startPc="268436453"/>
+<entry endPc="268436585" name="grade" stackId="2" startPc="268436453"/>
+<entry endPc="268436784" name="index" stackId="3" startPc="268436589"/>
+<entry endPc="268436784" name="min" stackId="4" startPc="268436589"/>
+<entry endPc="268436784" name="sPace" stackId="2" startPc="268436589"/>
+<entry endPc="268436784" name="sec" stackId="6" startPc="268436589"/>
+<entry endPc="268436784" name="formatted" stackId="8" startPc="268436589"/>
+<entry endPc="268436784" name="sSec" stackId="7" startPc="268436589"/>
+<entry endPc="268436784" name="dSec" stackId="5" startPc="268436589"/>
+<entry endPc="268436785" name="pace" stackId="1" startPc="268436585"/>
+<entry endPc="268436814" name="state" stackId="1" startPc="268436809"/>
+<entry endPc="268436819" name="state" stackId="1" startPc="268436814"/>
 </localVars>
 <annotations/>
 <functions>
@@ -133,6 +157,10 @@
 </functionEntry>
 <functionEntry accessMode="public" name="compute" parent="larsGradedPaceView">
 <param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getAverage" parent="larsGradedPaceView">
+<param id="a"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="calcGrade" parent="larsGradedPaceView">
@@ -165,14 +193,14 @@
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="174" parentId="globals" symbolId="larsGradedPaceView" type="class"/>
-<dataEntry offset="285" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="364" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="403" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="434" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="465" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="496" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="527" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="566" parentId="globals" symbolId="testFormatPace" type="class"/>
-<dataEntry offset="613" parentId="globals" symbolId="larsGradedPaceApp" type="class"/>
+<dataEntry offset="301" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="380" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="419" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="450" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="481" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="512" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="543" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="582" parentId="globals" symbolId="testFormatPace" type="class"/>
+<dataEntry offset="629" parentId="globals" symbolId="larsGradedPaceApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>

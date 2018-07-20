@@ -11,11 +11,18 @@ class larsGradedPaceView extends Ui.SimpleDataField {
     const samples = 5;
 	var altitudes = new[samples];
 	var distances = new [samples];
+	var speeds = new [samples];
 
     // Set the label of the data field here.
     function initialize() {
         SimpleDataField.initialize();
-        label = "larsGAP";
+        label = "GAP 5s";
+        
+        for (var i = 0; i < samples; i++) {
+        	altitudes[i] = 0.0; 
+        	distances[i] = 0.0;
+        	speeds[i] = 0.0;
+        }
     }
 
     // The given info object contains all the current workout
@@ -32,27 +39,42 @@ class larsGradedPaceView extends Ui.SimpleDataField {
         //store altitude and distance for a number of samples
     	for (var i = samples - 2; i >= 0 ; i--) {
     		//System.println("i: " + i);
-    		if ( altitudes[i] != null && distances[i] != null ) {
+    		if ( altitudes[i] != null && distances[i] != null && speeds[i] != null) {
     			altitudes[i+1] = altitudes[i];
     			distances[i+1] = distances[i];
+    			speeds[i+1] = speeds[i];
     		}
     	}
     	
     	altitudes[0] = info.altitude;
     	distances[0] = info.elapsedDistance;
+    	speeds[0] = info.currentSpeed;
     	//testing - distances[0] = Time.now().value();
     	
     	var grade = calcGrade();
     	
-    	var gap = calcGap(info.currentSpeed, grade);
+    	var gap = calcGap(getAverage(speeds), grade);
     	
-    	//TODO - need pace smoothing?
-    	
-    	//System.println("spd / gap: " + info.currentSpeed + " / " + gap);
-        
         return gap;
     }
-    
+  
+  	
+    function getAverage(a) {
+        var count = 0;
+        var sum = 0.0;
+        for (var i = 0; i < a.size(); ++i) {
+            if (a[i] > 0.0) {
+                count++;
+                sum += a[i];
+            }
+        }
+        if (count > 0) {
+            return sum / count;
+        } else {
+            return null;
+        }
+    }
+     
     function calcGrade() {
     
     	var altDelta = 0;
@@ -94,7 +116,12 @@ class larsGradedPaceView extends Ui.SimpleDataField {
     		return 0;
     	}
     	var grade = altAvg/distAvg * 100;
-    	System.println("grade%: " + grade);
+    	//sanity check
+    	if ( grade < -45 || grade > 45 ) {
+    		System.println("strange grade calc, adjusting: " + grade);
+    		return 0;
+    	}
+    	//System.println("grade%: " + grade);
     	return grade;
     	
     }
@@ -136,7 +163,7 @@ class larsGradedPaceView extends Ui.SimpleDataField {
 			paceCalc = empspeed + (empspeed * ((grade * -1 * 1.8)/100) );
 		}
 		
-		System.println("speed/grade/gap: " + empspeed + " / " + grade + " / " + paceCalc);
+		//System.println("speed/grade/gap: " + empspeed + " / " + grade + " / " + paceCalc);
 		
 		//format for min and sec
 		return formatPace(paceCalc);
